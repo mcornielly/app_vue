@@ -3,10 +3,10 @@
 > A Vue.js project
 > Workspace ready for working with Vue.js
 
-```
-##Requeriments
-```bash
 
+## Requeriments
+
+```bash
 # install dependencies
 npm install
 
