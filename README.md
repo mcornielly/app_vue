@@ -1,9 +1,12 @@
 # app-vue
 
 > A Vue.js project
-Workspace ready for working with Vue.js
-##Requeriments
+> Workspace ready for working with Vue.js
+
 ```
+##Requeriments
+```bash
+
 # install dependencies
 npm install
 
