@@ -1,7 +1,19 @@
 # app-vue
 
 > A Vue.js project
+Workspace ready for working with Vue.js
+##Requeriments
+```
+# install dependencies
+npm install
 
+# Vue-cli
+npm install -g @vue/cli
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+```
 ## Build Setup
 
 ``` bash
